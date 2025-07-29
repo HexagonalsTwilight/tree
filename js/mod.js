@@ -1,6 +1,6 @@
 let modInfo = {
-	name: "The ??? Tree",
-	author: "nobody",
+	name: "The GD Tree",
+	author: "Hexagonals Twilight",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
@@ -76,3 +76,5 @@ function maxTickLength() {
 // you can cap their current resources with this.
 function fixOldSave(oldVersion){
 }
+
+id = 6345
