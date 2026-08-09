@@ -1,7 +1,7 @@
 let modInfo = {
-	name: "The GD Tree",
+	name: "The Vorona Tree",
 	author: "Hexagonals Twilight",
-	pointsName: "points",
+	pointsName: "cases",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -77,4 +77,4 @@ function maxTickLength() {
 function fixOldSave(oldVersion){
 }
 
-id = 6345
+id = 6564
